@@ -1,3 +1,11 @@
 /db.sqlite3
 /venv/
 /.idea/
+/__pycache__/
+
+# PyCharm  
+.idea/  
+
+# Compiled Python files  
+__pycache__/  
+*.py[cod] 
